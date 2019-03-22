@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ryan\source\repos\lab2\lab2\source.cpp(82): error C3861: 'test': identifier not found
+c:\users\ryan\source\repos\lab2\lab2\source.cpp(94): error C2059: syntax error: '}'
+c:\users\ryan\source\repos\lab2\lab2\source.cpp(94): error C2143: syntax error: missing ';' before '}'
